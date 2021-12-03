@@ -300,6 +300,14 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
       - type: Button
         label: Watch Video
         url: /
