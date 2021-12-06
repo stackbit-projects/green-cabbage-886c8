@@ -447,6 +447,7 @@ sections:
       - content/pages/blog/post-four.md
       - content/pages/blog/postlayout-c28er290a.md
       - content/pages/blog/post-three.md
+      - content/pages/blog/postlayout-8wd9a0i9u.md
     styles:
       self:
         height: auto
