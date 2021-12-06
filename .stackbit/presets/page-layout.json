@@ -1,5 +1,5 @@
 {
-    "model": "_PageLayout",
+    "model": "PageLayout",
     "presets": [
         {
             "label": "Landing",
